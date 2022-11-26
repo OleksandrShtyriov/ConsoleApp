@@ -1,0 +1,15 @@
+C:\Programing\C#\Course\Console\Console\obj\Debug\net6.0\Console.csproj.AssemblyReference.cache
+C:\Programing\C#\Course\Console\Console\obj\Debug\net6.0\Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\C#\Course\Console\Console\obj\Debug\net6.0\Console.AssemblyInfoInputs.cache
+C:\Programing\C#\Course\Console\Console\obj\Debug\net6.0\Console.AssemblyInfo.cs
+C:\Programing\C#\Course\Console\Console\obj\Debug\net6.0\Console.csproj.CoreCompileInputs.cache
+C:\Programing\C#\Course\Console\Console\bin\Debug\net6.0\Console.exe
+C:\Programing\C#\Course\Console\Console\bin\Debug\net6.0\Console.deps.json
+C:\Programing\C#\Course\Console\Console\bin\Debug\net6.0\Console.runtimeconfig.json
+C:\Programing\C#\Course\Console\Console\bin\Debug\net6.0\Console.dll
+C:\Programing\C#\Course\Console\Console\bin\Debug\net6.0\Console.pdb
+C:\Programing\C#\Course\Console\Console\obj\Debug\net6.0\Console.dll
+C:\Programing\C#\Course\Console\Console\obj\Debug\net6.0\refint\Console.dll
+C:\Programing\C#\Course\Console\Console\obj\Debug\net6.0\Console.pdb
+C:\Programing\C#\Course\Console\Console\obj\Debug\net6.0\Console.genruntimeconfig.cache
+C:\Programing\C#\Course\Console\Console\obj\Debug\net6.0\ref\Console.dll
